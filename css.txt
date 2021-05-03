@@ -1,0 +1,100 @@
+body {
+margin-top: 2em;
+margin-right: 1em;
+margin-bottom: 1em;
+margin-left: 2em;
+}
+
+body { margin: 0.5em 2em lem 2.5em; }
+
+h1 {
+	margin-bottom: 38px;
+	text-align: center;
+}
+
+#box {
+	margin-top: 2px;
+	padding: 2px 2px 2px 2px;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+div#container {
+	background-color: #00FFFF;
+	position: left;
+	top: 10px;
+}
+
+
+#p1 {
+	background-color: Grey;
+	width: 400px;
+	height: 160px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+    float: left;
+	padding: 40px;
+	margin-right: 15px;
+}
+
+#p2 {
+	background-color: Grey;
+	width: 400px;
+	height: 160px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+    float: left;
+	padding: 40px;
+	margin-right: 15px;
+}
+
+#p3 {
+	background-color: Grey;
+	width: 400px;
+	height: 160px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+    float: left;
+	padding: 40px;
+	margin-right: 15px;
+}
+
+#p4 {
+	background-color: yellow;
+	border: 1px solid black;
+    float: right;
+	height: 30px;
+	width: 120px;
+	text-align: center;
+	position: relative;
+	top: -135px;
+	left: 43px;
+}
+
+#p5 {
+	background-color: red;
+	border: 1px solid black;
+    float: right;
+	height: 30px;
+	width: 120px;
+	text-align: center;
+	position: relative;
+	top: -135px;
+	left: 43px;
+}
+
+#p6 {
+	background-color: pink;
+	border: 1px solid black;
+    float: right;
+	height: 30px;
+	width: 120px;
+	text-align: center;
+	position: relative;
+	top: -135px;
+	left: 43px;
+}
